@@ -14,7 +14,7 @@
     "express": "4.13.4",
     "mysql": "2.10.2",
     "should": "8.3.1",
-    "supertest": "1.2.0",
+    "supertest": "7.0.0",
     "validator": "5.2.0"
   },
   "author": "Deleepa",
